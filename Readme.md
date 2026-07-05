@@ -67,3 +67,35 @@ int main() {
 
 - [ ] item one (unchecked box)
 * [x] item two (checked box)
+
+> [!NOTE]
+> This is a note alert
+
+> [!WARNING]
+> This is a warning alert
+
+<sub>Subscript like H2O</sub>
+<sup>Superscript like X squared</sup>
+
+> Blockquote
+>> Nested blockquote
+>>> Triple nested blockquote
+
+#️⃣ Using emoji shortcodes :octocat:
+
+> This is a quote
+> — Someone famous
+
+```diff
++ This line was added
+- This line was removed
+```
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
